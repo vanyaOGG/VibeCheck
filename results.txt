@@ -1,0 +1,41 @@
+Text     : I am so happy today, everything is going great!
+Expected : joy
+Predicted: joy (1.0) - Correct
+
+Text     : I feel so lonely and empty inside.
+Expected : sadness
+Predicted: sadness (1.0) - Correct
+
+Text     : I am furious about what happened, this is unacceptable!
+Expected : anger
+Predicted: anger (1.0) - Correct
+
+Text     : I am terrified of what might happen next.
+Expected : fear
+Predicted: fear (1.0) - Correct
+
+Text     : I cherish you deeply, my heart is so full of love for you.
+Expected : love
+Predicted: joy (0.68) - Wrong
+
+Text     : I was completely stunned, I had absolutely no idea this would happen.
+Expected : surprise
+Predicted: surprise (0.99) - Correct
+
+Text     : I am so scared right now, I cannot stop trembling with fear.
+Expected : fear
+Predicted: fear (1.0) - Correct
+
+Text     : Today was perfect, I feel absolutely wonderful.
+Expected : joy
+Predicted: joy (1.0) - Correct
+
+Text     : I have been crying all day thinking about the loss.
+Expected : sadness
+Predicted: sadness (0.96) - Correct
+
+Text     : This makes me so angry I could scream.
+Expected : anger
+Predicted: anger (1.0) - Correct
+
+Final Score: 9/10
