@@ -1,0 +1,194 @@
+{
+  "joy": [
+    {
+      "song": "Loving You",
+      "artist": "Michael Jackson",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/b366cff64b1e4757c7f64e117142baa5.png",
+      "url": "https://www.last.fm/music/michael%2bjackson/_/loving%2byou"
+    },
+    {
+      "song": "Loving You (original version)",
+      "artist": "Michael Jackson",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/b366cff64b1e4757c7f64e117142baa5.png",
+      "url": "https://www.last.fm/music/michael%2bjackson/_/loving%2byou%2b%2528original%2bversion%2529"
+    },
+    {
+      "song": "Field of Flowers",
+      "artist": "Sixpence None the Richer",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/5fa3efb2ce154097a0d81b3f93a106d6.png",
+      "url": "https://www.last.fm/music/sixpence%2bnone%2bthe%2bricher/_/field%2bof%2bflowers"
+    },
+    {
+      "song": "Joy",
+      "artist": "Bastille",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/3aa3a255dffffa351e138568d0f8d8ac.png",
+      "url": "https://www.last.fm/music/bastille/_/joy"
+    },
+    {
+      "song": "The Universe Is Going To Catch You",
+      "artist": "The Antlers",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/9326ff9158464348c356d9e1af975268.png",
+      "url": "https://www.last.fm/music/the%2bantlers/_/the%2buniverse%2bis%2bgoing%2bto%2bcatch%2byou"
+    }
+  ],
+  "sadness": [
+    {
+      "song": "Tears in the Typing Pool",
+      "artist": "Broadcast",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/e590e8f326426606396f68f2d31eaf02.png",
+      "url": "https://www.last.fm/music/broadcast/_/tears%2bin%2bthe%2btyping%2bpool"
+    },
+    {
+      "song": "I Never Want to See You Again",
+      "artist": "Quasi",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/93027d7ed6eec1582535589e23615e08.png",
+      "url": "https://www.last.fm/music/quasi/_/i%2bnever%2bwant%2bto%2bsee%2byou%2bagain"
+    },
+    {
+      "song": "Human",
+      "artist": "Krewella",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/0cc732d2f6484569982a83e6b0d6d491.png",
+      "url": "https://www.last.fm/music/krewella/_/human"
+    },
+    {
+      "song": "Nothing Left to Say",
+      "artist": "Tram",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/a586760e6f8b47219da5ed00633c5b27.png",
+      "url": "https://www.last.fm/music/tram/_/nothing%2bleft%2bto%2bsay"
+    },
+    {
+      "song": "Only 1",
+      "artist": "Ariana Grande",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/b68854212b18163a584df683cb7c0fe0.png",
+      "url": "https://www.last.fm/music/ariana%2bgrande/_/only%2b1"
+    }
+  ],
+  "anger": [
+    {
+      "song": "Rule",
+      "artist": "Ado",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/7cea115e5f62153d2cf511450232a97f.png",
+      "url": "https://www.last.fm/music/ado/_/rule"
+    },
+    {
+      "song": "Ring of Fire",
+      "artist": "Krewella",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/0cc732d2f6484569982a83e6b0d6d491.png",
+      "url": "https://www.last.fm/music/krewella/_/ring%2bof%2bfire"
+    },
+    {
+      "song": "Dig My Grave",
+      "artist": "They Might Be Giants",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/085a3cb12ddc95d1e4849db2719e5db5.png",
+      "url": "https://www.last.fm/music/they%2bmight%2bbe%2bgiants/_/dig%2bmy%2bgrave"
+    },
+    {
+      "song": "Touch\u00e9 (feat. MOON)",
+      "artist": "WOODZ",
+      "cover_image": null,
+      "url": "https://www.last.fm/music/woodz/_/touch%25c3%25a9%2b%2528feat.%2bmoon%2529"
+    },
+    {
+      "song": "St. Anger",
+      "artist": "Metallica",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/425f003ab59fc882cff55f62652c7893.png",
+      "url": "https://www.last.fm/music/metallica/_/st.%2banger"
+    }
+  ],
+  "fear": [
+    {
+      "song": "Fear",
+      "artist": "Drake",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/f3885673a82b427e84110223ff9ed8b5.png",
+      "url": "https://www.last.fm/music/drake/_/fear"
+    },
+    {
+      "song": "The Fear",
+      "artist": "Ben Howard",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/c5742d38780cf7aed20d916afebfe48a.png",
+      "url": "https://www.last.fm/music/ben%2bhoward/_/the%2bfear"
+    },
+    {
+      "song": "Winnebago",
+      "artist": "Samia",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/9b47a5fef7e566682639713926190da2.png",
+      "url": "https://www.last.fm/music/samia/_/winnebago"
+    },
+    {
+      "song": "Flame of the Ancient World",
+      "artist": "Mark Morgan",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/5ae0b7e254bf418a91871f5f28574885.png",
+      "url": "https://www.last.fm/music/mark%2bmorgan/_/flame%2bof%2bthe%2bancient%2bworld"
+    },
+    {
+      "song": "Entrance",
+      "artist": "Atrium Carceri",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/6d5d32979003284f712c719030929e69.png",
+      "url": "https://www.last.fm/music/atrium%2bcarceri/_/entrance"
+    }
+  ],
+  "love": [
+    {
+      "song": "Talking to the Moon",
+      "artist": "Bruno Mars",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/c3c4dde679eb3436694c2411fe0ff15c.png",
+      "url": "https://www.last.fm/music/bruno%2bmars/_/talking%2bto%2bthe%2bmoon"
+    },
+    {
+      "song": "Love You Like a Love Song",
+      "artist": "Selena Gomez & the Scene",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/4567c0cb1e2bd7ef878713004a469da7.png",
+      "url": "https://www.last.fm/music/selena%2bgomez%2b%2526%2bthe%2bscene/_/love%2byou%2blike%2ba%2blove%2bsong"
+    },
+    {
+      "song": "The Only Exception",
+      "artist": "Paramore",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/8935ea2d777c8f2f5f3c7a8f521ea9fb.png",
+      "url": "https://www.last.fm/music/paramore/_/the%2bonly%2bexception"
+    },
+    {
+      "song": "Lover, You Should've Come Over",
+      "artist": "Jeff Buckley",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/b9c826bf4d8da57694c54d7403d5cb18.png",
+      "url": "https://www.last.fm/music/jeff%2bbuckley/_/lover%252c%2byou%2bshould%2527ve%2bcome%2bover"
+    },
+    {
+      "song": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/d904dd085fb44fabcfd0834b8d2a5d92.png",
+      "url": "https://www.last.fm/music/ed%2bsheeran/_/thinking%2bout%2bloud"
+    }
+  ],
+  "surprise": [
+    {
+      "song": "Surprise",
+      "artist": "robby maria & the silent revolution",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/7d1d19fb239c4fbc93fe49bbc47c1df0.png",
+      "url": "https://www.last.fm/music/robby%2bmaria%2b%2526%2bthe%2bsilent%2brevolution/_/surprise"
+    },
+    {
+      "song": "Surprise",
+      "artist": "Robby Maria",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/8e2295c95c4848e595618888eef41a02.png",
+      "url": "https://www.last.fm/music/robby%2bmaria/_/surprise"
+    },
+    {
+      "song": "Stragglin' Behind",
+      "artist": "The Lemon Pipers",
+      "cover_image": "https://lastfm.freetls.fastly.net/i/u/300x300/eec64e2326690a9c8cd2b7ab5cadc84e.png",
+      "url": "https://www.last.fm/music/the%2blemon%2bpipers/_/stragglin%2527%2bbehind"
+    },
+    {
+      "song": "It's A Surprise (live on MOKB radio)",
+      "artist": "Here We Go Magic",
+      "cover_image": null,
+      "url": "https://www.last.fm/music/here%2bwe%2bgo%2bmagic/_/it%2527s%2ba%2bsurprise%2b%2528live%2bon%2bmokb%2bradio%2529"
+    },
+    {
+      "song": "E-Nation, Sucker (Inception)",
+      "artist": "Jeff Sabarese",
+      "cover_image": null,
+      "url": "https://www.last.fm/music/jeff%2bsabarese/_/e-nation%252c%2bsucker%2b%2528inception%2529"
+    }
+  ]
+}
